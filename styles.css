@@ -1,0 +1,32 @@
+body {
+    background-color: #202020;
+}
+
+.header {
+    background-color: #F24B4B;
+    margin-top: 0px;
+}
+
+#title {
+    font-family: 'Roboto';
+    font-size: 40px;
+    color: white;
+}
+
+.blog {
+    margin-left: 20px;
+    width: 85%;
+}
+
+#subtitle {
+    font-family: 'Roboto';
+    font-size: 25px;
+    color: #F24B4B;
+}
+
+#content {
+    font-family: 'Roboto';
+    font-size: 15px;
+    color: white;
+    line-height: 20px;
+}
